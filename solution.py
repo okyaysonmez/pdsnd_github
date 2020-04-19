@@ -26,7 +26,7 @@ def get_filters():
         if city in CITY_DATA.keys():
             break
         else:
-            print("You have entered wrong city name .Please try again ")
+            print("You have entered wrong city name. Be careful Please try again ")
 
     # get user input for month (all, january, february, ... , june)
     while True:
