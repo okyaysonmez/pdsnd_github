@@ -2,13 +2,17 @@
 19 April 2020
 
 ### Project Title
-Replace the Project Title
+Bike share systems data analysis for Chicago, New York, Washington
 
 ### Description
-Describe what your project is about and what it does
+Bike share systems data Chicago, New York City, and Washington. It will be used for computing descriptive statistics to understand the characteristics of bike share usage
 
 ### Files used
-Include the files used
+solution.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+www.udacity.com
+https://github.com/udacity/pdsnd_github
