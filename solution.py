@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+# Bike share systems data for three major cities in the United States—Chicago, New York City, and Washington. It will be used for computing descriptive statistics.
+
 CITY_DATA = { 'Chicago': '/Users/okyay/Desktop/Project2/chicago.csv',
               'New York': '/Users/okyay/Desktop/Project2/new_york_city.csv',
               'Washington': '/Users/okyay/Desktop/Project2/washington.csv'
